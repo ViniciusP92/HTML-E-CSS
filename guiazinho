@@ -1,0 +1,65 @@
+RGB = minímo 0(preto), máximo 255(branco)
+
+hexadecimal = 0~9 A~F, com F sendo o máximo e 0 o mínimo
+
+id="" (dá uma identidade a uma tag)
+
+<html lang="pt-br"(define o idioma da pagina)
+
+<title>(muda o nome da aba)
+
+<meta charset="UTF-8"> (muda o estilo do texto)
+
+<img src="banner.jpg"> (adiciona uma imagem ao codigo)
+
+height: ??px (define a altura)
+
+width: ??px (define a largura, em pixel ou %)
+
+border: ??px solid #000000; (borda: largura, tonalidade e cor)
+
+padding(pode ser top, bottom, left ou right): ??px (espaçamento interno)
+
+margin(left ou right): ??px (espaçamento externo)
+
+<ul> (lista desordenada)
+
+<ol> (lista ordenada)
+
+<li> (lista um item)
+
+O prefixo para classe no CSS é "." e para identidade é "#" 
+
+display:inline ( não permite definição de largura e altura, mas permite exibição de elementos ao seu lado)
+
+display:block (permite definição de largura e altura, mas não permite exibição de elementos ao seu lado)
+
+display:inline-block(Permitem a definição de largura e altura, e permitem exibição de elementos ao seu lado)
+
+header: cabeçalho da pagina.
+
+<a href="link"> (Comando anchor, serve para linkar 2 páginas)
+
+text-transform  uppercase/lowercase (transforma todo o texto em maiusculo ou minusculo)
+
+font-weight bold (transforma o texto em negrito)
+
+text-decoration none ( retira as decorações do texto)
+
+margin 0 0 0 0 (espaçamento externo,ordem: topo,direita,baixo e esquerda)
+
+position: absolute (dá liberdade para mover o elemento livremente)
+
+border ??px solid/dashed/dotted #000000 (borda tamanho, tipo e cor)
+
+border-radius (deixa as bordas arredondadas em ordem: superior esquerdo, superior direito, inferior direito, inferior esquerdo)
+
+a:hover (altera o visual do link assim que se passa o mouse)
+
+a:active (Altera o visual do link assim que se clica com o mouse)
+
+footer (faz o rodapé)
+
+background: url("link") (põe uma imagem como fundo)
+
+<form> abre um formulário <input> (tag para receber dados) label (tag para usar no input)
